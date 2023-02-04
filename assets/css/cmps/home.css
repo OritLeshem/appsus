@@ -8,13 +8,9 @@
     
 }
 
-.home::before{
 
-    /* background-image: url('../../img/city.jpg'); */
-
-}
 .homepage-imgs {
-   border-radius: 50%;
+    border-radius: 50%;
     height: 20em;
     object-fit: contain;
     margin-top: 15em;
